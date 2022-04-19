@@ -15,20 +15,6 @@
 - ⚽  I’m an FC Barcelona fan
 - 😻  Love cats
 
-### Connect with me:
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amanmadov)
-<a align="center" href="https://www.linkedin.com/in/amanmadov/"><img align="center" LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-[![website](./img/twitter-light.svg)](https://twitter.com/amanmadov#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/amanmadov#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/amanmadov#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/amanmadov#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/nury.amanmadov#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/nury.amanmadov#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -40,6 +26,12 @@
 <img align="left" alt="c#" width="25px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+
+
+### Follow me:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amanmadov)
+
 
 <br/>
 
