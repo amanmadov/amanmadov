@@ -12,7 +12,7 @@
 - 💻  I have more than 4 years of experience in developing web applications
 - 🤖  For the last 2 years I have been working as an RPA software architect
 - 🎓  Currently I am a graduate student at Touro University New York
-- ⚽  I’m an FC Barcelona fan
+- ⚽  I’m FC Barcelona fan
 - 😻  Love cats
 
 
@@ -27,6 +27,8 @@
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
+<br/>
+<br/>
 <br/>
 
 ### Follow me:
