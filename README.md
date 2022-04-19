@@ -3,7 +3,6 @@
 
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=amanmadov) 
  [![Github](https://img.shields.io/github/followers/amanmadov?label=Follow&style=social)](https://github.com/amanmadov) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amanmadov)
 
 
 
@@ -17,6 +16,9 @@
 - 😻  Love cats
 
 ### Connect with me:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amanmadov)
+<a align="center" href="https://www.linkedin.com/in/amanmadov/"><img align="center" LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 [![website](./img/twitter-light.svg)](https://twitter.com/amanmadov#gh-light-mode-only)
@@ -38,8 +40,6 @@
 <img align="left" alt="c#" width="25px" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" />
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
-<img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
 
@@ -54,4 +54,3 @@
 ![amanmadov GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmadov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
  
 
-[linkedin]: https://www.linkedin.com/in/amanmadov/
