@@ -11,8 +11,8 @@
 
 - 💻  I have more than 4 years of experience in developing web applications
 - 🤖  For the last 2 years I have been working as an RPA software architect
-- 🎓  Currently I am a graduate student at Touro University New York
-- ⚽  I’m FC Barcelona fan
+- 🎓  Currently I am a graduate student of Touro University at New York
+- ⚽  I am a huge FC Barcelona fan
 - 😻  Love cats
 
 
