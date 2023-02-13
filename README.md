@@ -9,7 +9,7 @@
 
 ## I'm a software engineer 
 
-- 💻  I have more than 4 years of experience in developing web applications
+- 💻  I have more than 4 years of experience in developing web applications and implementing CRM solutions with Salesforce technologies
 - 🤖  For the last 2 years I have been working as an RPA software architect
 - 🎓  Currently I am a graduate student of Touro University at New York
 - ⚽  I am a huge FC Barcelona fan
