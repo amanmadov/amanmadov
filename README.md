@@ -1,5 +1,5 @@
  <h1> Hi there, I'm Nury 👋 </h1>
- <div style="display: flex; flex-direction: row;">
+ <div align:"right">
   <img class="img" src="https://visitor-badge.laobi.icu/badge?page_id=amanmadov" />
   <a href="https://github.com/amanmadov"><img class="img" src="https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat" /></a>
   <a href="https://twitter.com/amanmadov"><img class="img" src="https://img.shields.io/twitter/follow/amanmadov?label=Follow&color=1DA1F2&logo=twitter&style=flat" /> </a>
@@ -13,42 +13,23 @@
 - 🎓  Currently I am a graduate student of Touro University at New York
 - ⚽  I am a huge FC Barcelona fan
 
+<br/>
 
 ## Languages, Tools and Technologies:
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs,express,react,redux,jquery" />
+        <img src="https://skillicons.dev/icons?i=cs,js,nodejs,express,react,jquery,mongodb,postgres,html,css,bootstrap,tailwind,webpack,babel,jest" />
     </a>
 </p>
 
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,webpack,babel,sass,jest" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,graphql,fastapi,postman,regex" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,jenkins,kubernetes,linux" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,atom,xd,stackoverflow,devto,linkedin,twitter" />
+        <img src="https://skillicons.dev/icons?i=graphql,fastapi,postman,regex,git,github,gitlab,docker,jenkins,kubernetes,linux,visualstudio,vscode,atom,xd" />
     </a>
 </p>
 
 
-<br/>
-<br/>
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------
