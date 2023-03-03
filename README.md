@@ -3,7 +3,7 @@
 
  ![Count](https://visitor-badge.laobi.icu/badge?page_id=amanmadov) 
  [![Github](https://img.shields.io/github/followers/amanmadov?label=Follow&style=social)](https://github.com/amanmadov) 
-
+ [![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter)](https://twitter.com/amanmadov)
 
 
 
