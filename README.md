@@ -1,11 +1,9 @@
-# Hi there, I'm Nury 👋 
-
-
- ![Count](https://visitor-badge.laobi.icu/badge?page_id=amanmadov) 
- [![Github](https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat)](https://github.com/amanmadov) 
- [![Twitter](https://img.shields.io/twitter/follow/amanmadov?label=Follow&color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/amanmadov)
-
-
+ <h1> Hi there, I'm Nury 👋 </h1>
+ <div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://visitor-badge.laobi.icu/badge?page_id=amanmadov" />
+  <a href="https://github.com/amanmadov"><img class="img" src="https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat" /></a>
+  <a href="https://twitter.com/amanmadov"><img class="img" src="https://img.shields.io/twitter/follow/amanmadov?label=Follow&color=1DA1F2&logo=twitter&style=flat" /> </a>
+ </div>
 
 ## I'm a software engineer 
 
