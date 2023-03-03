@@ -54,18 +54,7 @@
 <br/>
 <br/>
 
-### Follow me:
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/amanmadov?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amanmadov)
-
-<br/>
-
-
 ---------------------------------------------------------------------------------------------------------------
- 
-
- 
- 
  
 
 ![amanmadov GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmadov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
