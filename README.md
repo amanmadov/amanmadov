@@ -14,7 +14,6 @@
 - 🤖  For the last 2 years I have been working as an RPA software architect
 - 🎓  Currently I am a graduate student of Touro University at New York
 - ⚽  I am a huge FC Barcelona fan
-- 😻  Love cats
 
 
 ## Languages, Tools and Technologies:
