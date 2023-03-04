@@ -97,13 +97,13 @@
 <!-- Certifications -->
 <div align="center">
   <h2>Certifications</h2>
-  <img src="./assets/icons/icon1.png" height="70" alt="Salesforce Javascript Certification">
-  <img src="./assets/icons/icon2.png" height="70" alt="Salesforce Platform Developer I Certification">
-  <img src="./assets/icons/icon3.png" height="70" alt="Salesforce Platform App Builder Certification">
-  <img src="./assets/icons/icon4.png" height="70" alt="Salesforce Administrator Certification">
-  <img src="./assets/icons/icon6.png" height="70" alt="Automation Anywhere RPA Certification">
-  <img src="./assets/icons/icon7.png" height="70" alt="UiPath Advanced RPA Certification">
- <img src="./assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification">
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon1.png" height="70" alt="Salesforce Javascript Certification"></a>
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon2.png" height="70" alt="Salesforce Platform Developer I Certification"></a>
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon3.png" height="70" alt="Salesforce Platform App Builder Certification"></a>
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon4.png" height="70" alt="Salesforce Administrator Certification"></a>
+  <a href="https://certificates.automationanywhere.com/60cc3632-60c6-4398-9584-6260430319bb"><img src="./assets/icons/icon6.png" height="70" alt="Automation Anywhere RPA Certification"></a>
+  <a href="https://certificate.uipath.com/validation/diploma/code=929432899817526525"><img src="./assets/icons/icon7.png" height="70" alt="UiPath Advanced RPA Certification"></a>
+  <a href="https://www.credly.com/badges/66386424-79b6-4d8c-84a8-4ae49dbc6e9a"><img src="./assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification"></a>
 </div>
 
 <br/>
