@@ -113,13 +113,23 @@
 
 <br/>
 
-<!-- Contact -->
+<!--Social Channel-->
+<p align="center">
+    <a href="https://www.linkedin.com/in/amanmadov/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+    <a href="https://www.hackerrank.com/amanmadov"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white"></a>
+     <a href="https://www.leetcode.com/amanmadov"><img src="https://img.shields.io/badge/leetcode-yellow?&amp;style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"></a>
+   <a href="https://trailblazer.me/id/amanmadov"><img src="https://img.shields.io/badge/trailhead-blue?&amp;style=for-the-badge&amp;logo=salesforce&amp;logoColor=white"></a>
+ <a href="https://www.github.com/amanmadov"><img src="https://img.shields.io/badge/github-black?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+ <a href="https://www.youtube.com/channel/UC5rOnSvWwxdul6tx-Vkpbyw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+ <a href="https://www.twitter.com/amanmadov"><img src="https://img.shields.io/badge/twitter-blue?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
+</p>
 
-<div align="center">
-  contact me at  
+<!-- Contact -->
+<div align="center"> 
   <br/> <br/>
 
   ```js
+  // Contact me at
   console.log(((mail = 'amanmadov') => `${mail}@gmail.com`)());
   ```
 
