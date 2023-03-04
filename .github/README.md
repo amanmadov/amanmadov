@@ -8,7 +8,7 @@
 
  <br/>
  
- ![Header](./assets/header1.png) 
+ ![Header](../assets/header1.png) 
 
 <br/>
 <br/>
@@ -92,15 +92,20 @@
 
 </div>
 
+<br/>
+
 <div align="center">
   <h2>Certifications</h2>
-  <img src="./assets/icons/icon1.png" height="20">
-  <img src="./assets/icons/icon2.png" height="20">
-  <img src="./assets/icons/icon3.png" height="20">
-  <img src="./assets/icons/icon4.png" height="20">
-  <img src="./assets/icons/icon6.png" height="20">
-  <img src="./assets/icons/icon7.png" height="20">
+  <img src="../assets/icons/icon1.png" height="70">
+  <img src="../assets/icons/icon2.png" height="70">
+  <img src="../assets/icons/icon3.png" height="70">
+  <img src="../assets/icons/icon4.png" height="70">
+  <img src="../assets/icons/icon6.png" height="70">
+  <img src="../assets/icons/icon7.png" height="70">
 </div>
+
+<br/>
+<br/>
  
  [![Nury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanmadov&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/amanmadov/github-readme-activity-graph)
 
