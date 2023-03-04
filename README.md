@@ -17,7 +17,7 @@
 
 <br/>
 
-## Languages, Tools and Technologies:
+## Programming Languages, Tools and Technologies:
 
 <p align="left">
     <a href="https://skillicons.dev">
@@ -33,6 +33,47 @@
 
 
 <br/>
+
+## Force Platform Technologies
+
+![](https://img.shields.io/badge/-salesforce-blue)
+![](https://img.shields.io/badge/-salesforce--crm-blue)
+![](https://img.shields.io/badge/-salesforce--admin-blue)
+![](https://img.shields.io/badge/-salesforce--development-blue)
+![](https://img.shields.io/badge/-salesforce--automation-blue)
+![](https://img.shields.io/badge/-salesforce--flow-blue)
+![](https://img.shields.io/badge/-sales--cloud-blue)
+![](https://img.shields.io/badge/-service--cloud-blue)
+![](https://img.shields.io/badge/-marketing--cloud-blue)
+![](https://img.shields.io/badge/-commerce--cloud-blue)
+![](https://img.shields.io/badge/-customer--360-blue)
+![](https://img.shields.io/badge/-salesforce--integration-blue)
+![](https://img.shields.io/badge/-salesforce--apis-blue)
+![](https://img.shields.io/badge/-rest--integration-blue)
+![](https://img.shields.io/badge/-salesforce--workflows-blue)
+![](https://img.shields.io/badge/-salesforce--deployment-blue)
+![](https://img.shields.io/badge/-salesforce--customization-blue)
+![](https://img.shields.io/badge/-apex-blue) 
+![](https://img.shields.io/badge/-lwc-blue)
+![](https://img.shields.io/badge/-soql-blue)
+![](https://img.shields.io/badge/-sosl-blue)
+![](https://img.shields.io/badge/-lightning--framework-blue)
+![](https://img.shields.io/badge/-aura--framework-blue)
+![](https://img.shields.io/badge/-force.com-blue)
+![](https://img.shields.io/badge/-apex--triggers-blue)
+![](https://img.shields.io/badge/-visual--force-blue)
+![](https://img.shields.io/badge/-bulk--api-blue)
+![](https://img.shields.io/badge/-web--components-blue)
+![](https://img.shields.io/badge/-salesforce--cpq-blue)
+![](https://img.shields.io/badge/-mulesoft-blue)
+![](https://img.shields.io/badge/-flosum-blue)
+![](https://img.shields.io/badge/-ci%2Fcd-blue)
+![](https://img.shields.io/badge/-omnistudio-blue)
+![](https://img.shields.io/badge/-data--loader-blue)
+![](https://img.shields.io/badge/-salesforce--dx-blue)
+![](https://img.shields.io/badge/-lightning--design--system-blue)
+![](https://img.shields.io/badge/-vlocity-blue)
+
 
 ---------------------------------------------------------------------------------------------------------------
  
