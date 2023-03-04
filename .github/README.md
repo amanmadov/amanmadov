@@ -25,10 +25,9 @@
 
 </div> 
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
+<!-- Technologies 1 -->
 <div align="center">
  <h2><img src="./assets/code.gif" height="20">  Programming Languages, Tools and Technologies  <img src="./assets/code.gif" height="20"></h2>
 
@@ -48,6 +47,7 @@
 
 <br/>
 
+<!-- Technologies 2 -->
 <div align="center">
   <h2><img src="./assets/code.gif" height="20"> Force Platform Technologies <img src="./assets/code.gif" height="20"></h2>
 
@@ -92,32 +92,51 @@
 
 </div>
 
----------------------------------------------------------------------------------------------------------------
+<br/>
+
+<!-- Certifications -->
+<div align="center">
+  <h2>Certifications</h2>
+  <img src="./assets/icons/icon1.png" height="70">
+  <img src="./assets/icons/icon2.png" height="70">
+  <img src="./assets/icons/icon3.png" height="70">
+  <img src="./assets/icons/icon4.png" height="70">
+  <img src="./assets/icons/icon6.png" height="70">
+  <img src="./assets/icons/icon7.png" height="70">
+ <img src="./assets/icons/icon8.png" height="70">
+</div>
+
+<br/>
+<br/>
  
+ <!-- Activity Graph-->
  [![Nury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanmadov&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/amanmadov/github-readme-activity-graph)
 
 <br/>
 
-<!--  
-![amanmadov GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmadov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
- 
- <br/>
+<!--Social Channel-->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanmadov&show_icons=true&locale=en" alt="Nury Amanmadov" width="300" />
+    <a href="https://www.linkedin.com/in/amanmadov/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+    <a href="https://www.hackerrank.com/amanmadov"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white"></a>
+     <a href="https://www.leetcode.com/amanmadov"><img src="https://img.shields.io/badge/leetcode-yellow?&amp;style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"></a>
+   <a href="https://trailblazer.me/id/amanmadov"><img src="https://img.shields.io/badge/trailhead-blue?&amp;style=for-the-badge&amp;logo=salesforce&amp;logoColor=white"></a>
+ <a href="https://www.github.com/amanmadov"><img src="https://img.shields.io/badge/github-black?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+ <a href="https://www.youtube.com/channel/UC5rOnSvWwxdul6tx-Vkpbyw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+ <a href="https://www.twitter.com/amanmadov"><img src="https://img.shields.io/badge/twitter-blue?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
 </p>
-<br/>
--->
 
-<div align="center">
-  contact me at  
+<!-- Contact -->
+<div align="center"> 
   <br/> <br/>
 
   ```js
+  // Contact me at
   console.log(((mail = 'amanmadov') => `${mail}@gmail.com`)());
   ```
 
 </div>
 
+<!-- Contact -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
