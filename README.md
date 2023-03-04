@@ -26,6 +26,7 @@
 </div> 
 
 <br/>
+<br/>
 
 <div align="center">
  <h2><img src="./assets/code.gif" height="20">  Programming Languages, Tools and Technologies  <img src="./assets/code.gif" height="20"></h2>
