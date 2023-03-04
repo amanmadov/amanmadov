@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
- <h2> Programming Languages, Tools and Technologies</h2>
+ <h2><img src="./assets/code.gif" height="20">  Programming Languages, Tools and Technologies  <img src="./assets/code.gif" height="20"></h2>
 
  <p align="center">
      <a href="https://skillicons.dev">
@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-  <h2> Force Platform Technologies</h2>
+  <h2><img src="./assets/code.gif" height="20"> Force Platform Technologies <img src="./assets/code.gif" height="20"></h2>
 
   ![](https://img.shields.io/badge/-salesforce-blue)
   ![](https://img.shields.io/badge/-salesforce--crm-blue)
