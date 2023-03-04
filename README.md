@@ -73,6 +73,7 @@
 ![](https://img.shields.io/badge/-salesforce--dx-blue)
 ![](https://img.shields.io/badge/-lightning--design--system-blue)
 ![](https://img.shields.io/badge/-vlocity-blue)
+![](https://img.shields.io/badge/-copado-blue)
 
 
 ---------------------------------------------------------------------------------------------------------------
