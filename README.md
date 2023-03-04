@@ -15,7 +15,7 @@
 
 <div>
 
- <img align="right" width="250" src="./assets/coder.gif">
+ <img align="right" width="200" src="./assets/coder.gif">
 
  - 💻  I have 5+ years of experience in developing <strong>Fullstack web applications</strong>
  - ☁️  I have 3+ years of experience in implementing <strong>Salesforce technologies</strong>
@@ -119,5 +119,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
