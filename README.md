@@ -95,6 +95,7 @@
  [![Nury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanmadov&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/amanmadov/github-readme-activity-graph)
 
 <br/>
+
 <!--  
 ![amanmadov GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmadov&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
  
@@ -105,3 +106,16 @@
 <br/>
 -->
 
+<div align="center">
+  contact me at  
+  <br/> <br/>
+
+  ```js
+  console.log(((mail = 'amanmadov') => `${mail}@gmail.com`)());
+  ```
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
