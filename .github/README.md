@@ -97,13 +97,13 @@
 <!-- Certifications -->
 <div align="center">
   <h2>Certifications</h2>
-  <img src="./assets/icons/icon1.png" height="70">
-  <img src="./assets/icons/icon2.png" height="70">
-  <img src="./assets/icons/icon3.png" height="70">
-  <img src="./assets/icons/icon4.png" height="70">
-  <img src="./assets/icons/icon6.png" height="70">
-  <img src="./assets/icons/icon7.png" height="70">
- <img src="./assets/icons/icon9.png" height="70">
+  <img src="./assets/icons/icon1.png" height="70" alt="Salesforce Javascript Certification">
+  <img src="./assets/icons/icon2.png" height="70" alt="Salesforce Platform Developer I Certification">
+  <img src="./assets/icons/icon3.png" height="70" alt="Salesforce Platform App Builder Certification">
+  <img src="./assets/icons/icon4.png" height="70" alt="Salesforce Administrator Certification">
+  <img src="./assets/icons/icon6.png" height="70" alt="Automation Anywhere RPA Certification">
+  <img src="./assets/icons/icon7.png" height="70" alt="UiPath Advanced RPA Certification">
+ <img src="./assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification">
 </div>
 
 <br/>
