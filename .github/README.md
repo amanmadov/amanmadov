@@ -103,6 +103,7 @@
   <img src="./assets/icons/icon4.png" height="70">
   <img src="./assets/icons/icon6.png" height="70">
   <img src="./assets/icons/icon7.png" height="70">
+ <img src="./assets/icons/icon8.png" height="70">
 </div>
 
 <br/>
