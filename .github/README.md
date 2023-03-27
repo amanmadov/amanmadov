@@ -106,8 +106,17 @@
   <a href="https://www.credly.com/badges/66386424-79b6-4d8c-84a8-4ae49dbc6e9a"><img src="./assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification"></a>
 </div>
 
-<br/>
-<br/>
+<div align="center"> 
+  <br/> <br/>
+  
+  ```js
+  Ýol agyrdyr: müň ýanylar, öçüler. 
+  Bagtly ýollar kynlyk bilen geçiler.
+  ```
+
+</div>
+
+<br/><br/>
  
  <!-- Activity Graph-->
  [![Nury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanmadov&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/amanmadov/github-readme-activity-graph)
