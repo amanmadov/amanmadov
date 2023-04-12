@@ -130,12 +130,9 @@
      <a href="https://www.leetcode.com/amanmadov"><img src="https://img.shields.io/badge/leetcode-yellow?&amp;style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"></a>
    <a href="https://trailblazer.me/id/amanmadov"><img src="https://img.shields.io/badge/trailhead-blue?&amp;style=for-the-badge&amp;logo=salesforce&amp;logoColor=white"></a>
    <a href="https://www.codecademy.com/profiles/nury.amanmadov"><img src="https://img.shields.io/badge/codeacademy-%20-blue?&amp;style=for-the-badge&amp;logoColor=white"></a>
- <a href="https://www.github.com/amanmadov"><img src="https://img.shields.io/badge/github-black?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
  <a href="https://www.youtube.com/channel/UC5rOnSvWwxdul6tx-Vkpbyw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
  <a href="https://www.twitter.com/amanmadov"><img src="https://img.shields.io/badge/twitter-blue?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white"></a>
 </p>
-
-https://www.codecademy.com/profiles/nury.amanmadov
 
 <!-- Contact -->
 <div align="center"> 
