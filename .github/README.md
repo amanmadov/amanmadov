@@ -17,10 +17,10 @@
 
  <img align="right" width="200" src="./assets/coder.gif">
 
- - 💻  I have 5+ years of experience in developing <strong>Fullstack web applications</strong>
- - ☁️  I have 3+ years of experience in implementing <strong>Salesforce technologies</strong>
+ - 💻  I have 5+ years of experience in developing <strong>Full Stack Web Applications</strong>
  - 🤖  For the last 2 years I have been working as an <strong>RPA</strong> software architect
  - 🎓  Currently I am a graduate student of <strong>Touro University</strong> at New York
+ - ☁️  Seeking to expand my skills and experience in the field of <strong>Salesforce CRM Technologies</strong>
  - ⚽  I am a huge <strong>FC Barcelona</strong> fan
 
 </div> 
