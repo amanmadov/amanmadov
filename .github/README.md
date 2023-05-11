@@ -99,7 +99,9 @@
   <h2>Certifications</h2>
   <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon1.png" height="70" alt="Salesforce Javascript Certification"></a>
   <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon2.png" height="70" alt="Salesforce Platform Developer I Certification"></a>
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon5.png" height="70" alt="Salesforce Platform Developer II Certification"></a>
   <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon3.png" height="70" alt="Salesforce Platform App Builder Certification"></a>
+  <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon10.png" height="70" alt="Salesforce Certified Associate"></a>
   <a href="https://trailblazer.me/id/amanmadov"><img src="./assets/icons/icon4.png" height="70" alt="Salesforce Administrator Certification"></a>
   <a href="https://certificates.automationanywhere.com/60cc3632-60c6-4398-9584-6260430319bb"><img src="./assets/icons/icon6.png" height="70" alt="Automation Anywhere RPA Certification"></a>
   <a href="https://certificate.uipath.com/validation/diploma/code=929432899817526525"><img src="./assets/icons/icon7.png" height="70" alt="UiPath Advanced RPA Certification"></a>
