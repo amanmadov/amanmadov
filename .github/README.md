@@ -19,9 +19,8 @@
 
  - 💻  I have 5+ years of experience in developing <strong>Full Stack Web Applications</strong>
  - 🤖  For the last 2 years I have been working as an <strong>RPA</strong> software architect
- - 🎓  Currently I am a graduate student of <strong>Touro University</strong> at New York
- - ☁️  Seeking to expand my skills and experience in the field of <strong>Salesforce CRM Technologies</strong>
  - ⚽  I am a huge <strong>FC Barcelona</strong> fan
+ - 📫 You can reach me through `nurmyrat` at `uw` dot `edu`
 
 </div> 
 
@@ -47,52 +46,7 @@
 
 <br/>
 
-<!-- Technologies 2 -->
-<div align="center">
-  <h2><img src="./assets/code.gif" height="20"> Force Platform Technologies <img src="./assets/code.gif" height="20"></h2>
 
-  ![](https://img.shields.io/badge/-salesforce-blue)
-  ![](https://img.shields.io/badge/-salesforce--crm-blue)
-  ![](https://img.shields.io/badge/-salesforce--admin-blue)
-  ![](https://img.shields.io/badge/-salesforce--development-blue)
-  ![](https://img.shields.io/badge/-salesforce--automation-blue)
-  ![](https://img.shields.io/badge/-salesforce--flow-blue)
-  ![](https://img.shields.io/badge/-sales--cloud-blue)
-  ![](https://img.shields.io/badge/-service--cloud-blue)
-  ![](https://img.shields.io/badge/-marketing--cloud-blue)
-  ![](https://img.shields.io/badge/-commerce--cloud-blue)
-  ![](https://img.shields.io/badge/-customer--360-blue)
-  ![](https://img.shields.io/badge/-salesforce--integration-blue)
-  ![](https://img.shields.io/badge/-salesforce--apis-blue)
-  ![](https://img.shields.io/badge/-rest--integration-blue)
-  ![](https://img.shields.io/badge/-salesforce--workflows-blue)
-  ![](https://img.shields.io/badge/-salesforce--deployment-blue)
-  ![](https://img.shields.io/badge/-salesforce--customization-blue)
-  ![](https://img.shields.io/badge/-apex-blue) 
-  ![](https://img.shields.io/badge/-lwc-blue)
-  ![](https://img.shields.io/badge/-soql-blue)
-  ![](https://img.shields.io/badge/-sosl-blue)
-  ![](https://img.shields.io/badge/-lightning--framework-blue)
-  ![](https://img.shields.io/badge/-aura--framework-blue)
-  ![](https://img.shields.io/badge/-force.com-blue)
-  ![](https://img.shields.io/badge/-apex--triggers-blue)
-  ![](https://img.shields.io/badge/-visual--force-blue)
-  ![](https://img.shields.io/badge/-bulk--api-blue)
-  ![](https://img.shields.io/badge/-web--components-blue)
-  ![](https://img.shields.io/badge/-salesforce--cpq-blue)
-  ![](https://img.shields.io/badge/-mulesoft-blue)
-  ![](https://img.shields.io/badge/-flosum-blue)
-  ![](https://img.shields.io/badge/-ci%2Fcd-blue)
-  ![](https://img.shields.io/badge/-omnistudio-blue)
-  ![](https://img.shields.io/badge/-data--loader-blue)
-  ![](https://img.shields.io/badge/-salesforce--dx-blue)
-  ![](https://img.shields.io/badge/-vlocity-blue)
-  ![](https://img.shields.io/badge/-copado-blue)
-  ![](https://img.shields.io/badge/-lightning--design--system-blue)
-
-</div>
-
-<br/>
 
 <!-- Certifications -->
 <div align="center">
@@ -109,7 +63,8 @@
 </div>
 
 <div align="center"> 
-  <br/> <br/>
+  <br/> 
+  <br/>
   
   ```js
   Ýol agyrdyr: müň ýanylar, öçüler. 
@@ -118,13 +73,9 @@
 
 </div>
 
-<br/><br/>
- 
- <!-- Activity Graph-->
- [![Nury's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanmadov&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/amanmadov/github-readme-activity-graph)
-
 <br/>
-
+<br/>
+ 
 <!--Social Channel-->
 <p align="center">
     <a href="https://www.linkedin.com/in/amanmadov/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
@@ -141,7 +92,7 @@
 
   ```js
   // Contact me at
-  console.log(((mail = 'amanmadov') => `${mail}@gmail.com`)());
+  console.log(((mail = 'nurmyrat') => `${mail}@uw.edu`)());
   ```
 
 </div>
