@@ -26,7 +26,7 @@
 
 <br/><br/><br/>
 
-<!-- Technologies 1 -->
+<!-- Tech Stack -->
 <div align="center">
  <h2><img src="./assets/code.gif" height="20">  Programming Languages, Tools and Technologies  <img src="./assets/code.gif" height="20"></h2>
 
@@ -66,10 +66,10 @@
   <br/> 
   <br/>
   
-  ```js
-  Ýol agyrdyr: müň ýanylar, öçüler. 
-  Bagtly ýollar kynlyk bilen geçiler.
-  ```
+  
+  **`Ýol agyrdyr: müň ýanylar, öçüler. `**<br/>
+  **`Bagtly ýollar kynlyk bilen geçiler.`**
+  
 
 </div>
 
@@ -97,7 +97,7 @@
 
 </div>
 
-<!-- Contact -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
