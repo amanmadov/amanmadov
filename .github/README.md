@@ -1,5 +1,5 @@
  <!-- <h1> Hi there, I'm Nury 👋 </h1> -->
- 
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amanmadov" />
   <a href="https://github.com/amanmadov"><img src="https://img.shields.io/github/followers/amanmadov?label=Follow&logo=github&style=flat" /></a>
@@ -7,8 +7,8 @@
 </div>
 
  <br/>
- 
- ![Header](./assets/header.png) 
+
+ ![Header](./assets/header.png)
 
 <br/>
 <br/>
@@ -22,7 +22,7 @@
  - ⚽  I am a huge <strong>FC Barcelona</strong> fan
  - 📫 You can reach me through `nurmyrat` at `uw` dot `edu`
 
-</div> 
+</div>
 
 <br/><br/><br/>
 
@@ -62,20 +62,20 @@
   <a href="https://www.credly.com/badges/66386424-79b6-4d8c-84a8-4ae49dbc6e9a"><img src="./assets/icons/icon9.png" height="70" alt="Google Data Analytics Certification"></a>
 </div>
 
-<div align="center"> 
-  <br/> 
+<div align="center">
   <br/>
-  
-  
+  <br/>
+
+
   **`Ýol agyrdyr: müň ýanylar, öçüler. `**<br/>
   **`Bagtly ýollar kynlyk bilen geçiler.`**
-  
+
 
 </div>
 
 <br/>
 <br/>
- 
+
 <!--Social Channel-->
 <p align="center">
     <a href="https://www.linkedin.com/in/amanmadov/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
@@ -87,7 +87,7 @@
 </p>
 
 <!-- Contact -->
-<div align="center"> 
+<div align="center">
   <br/> <br/>
 
   ```js
