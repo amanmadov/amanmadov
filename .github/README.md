@@ -17,11 +17,11 @@ class Nury {
 		this.resume = 'linkedin.com/in/amanmadov';
 		this.netId = 'nurmyrat';
 		this.techStack = {
-			backend: ['C#', 'Node', 'Express', 'Python', 'Django'],
+			backend: ['Python', 'Django', 'C#', 'Node', 'Express'],
 			database: ['SQL Server', 'PostgreSQL', 'MongoDB'],
-			frontend: ['HTML', 'CSS', 'Boostrap', 'JavaScript', 'React', 'jQuery'],
-			tools: ['Git', 'GitHub', 'Docker', 'UiPath Studio', 'Adobe Xd'],
-			salesforce: ['Sales Cloud', 'Service Cloud', 'Apex', 'Visualforce', 'SOQL', 'SOSL']
+			frontend: ['JavaScript', 'React', 'jQuery', 'HTML', 'CSS', 'Boostrap'],
+			tools-technolgies: ['Git', 'GitHub', 'Docker', 'UiPath Studio', 'Selenium', 'Adobe Xd'],
+			salesforce: ['Sales Cloud', 'Service Cloud', 'Apex', 'LWC', 'Visualforce', 'SOQL', 'SOSL']
 		};
 	}
 
