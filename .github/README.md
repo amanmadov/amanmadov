@@ -4,17 +4,18 @@
 </div>
 
  <br/>
- 
+
  <h3> Hi there, I'm Nury 👋 </h3>
 
 
 ```js
-class Nury {
+class Amanmadov {
 	constructor() {
-		this.name = 'Nury Amanmadov';
+		this.name = 'Nurmyrat Amanmadov';
 		this.position = 'Software Developer';
 		this.worksAt = 'IHME at University of Washington';
 		this.resume = 'linkedin.com/in/amanmadov';
+		this.resume = 'amanmadov.com';
 		this.netId = 'nurmyrat';
 		this.techStack = {
 			backend: ['Python', 'Django', 'C#', 'Node', 'Express'],
