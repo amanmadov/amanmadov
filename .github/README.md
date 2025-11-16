@@ -15,7 +15,7 @@ class Amanmadov {
 		this.position = 'Infrastructure Engineer';
 		this.worksAt = 'IHME at University of Washington';
 		this.resume = 'linkedin.com/in/amanmadov';
-		this.resume = 'amanmadov.com';
+		this.webpage = 'amanmadov.com';
 		this.netId = 'nurmyrat';
 		this.techStack = {
 			backend: ['Python', 'Django', 'C#', 'Node', 'Express'],
