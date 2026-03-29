@@ -12,7 +12,7 @@
 class Amanmadov {
 	constructor() {
 		this.name = 'Nurmyrat Amanmadov';
-		this.position = 'Infrastructure Engineer';
+		this.position = 'Business Systems Developer';
 		this.worksAt = 'IHME at University of Washington';
 		this.resume = 'linkedin.com/in/amanmadov';
 		this.webpage = 'amanmadov.com';
